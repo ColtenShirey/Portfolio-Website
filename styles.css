@@ -69,7 +69,11 @@ p{
     bottom: 0pt;
     left: 0pt;
 
-}   
+}
+
+div li a{
+  pointer-events: none;
+}
 
 .footer_contents {
 
